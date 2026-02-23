@@ -1,9 +1,4 @@
-Here’s a **ready-to-use `README.md`** tailored for your GitHub repo:
 
-📌 Repository: **[Smart‑Resume‑Analyzer on GitHub](https://github.com/meerajkrishna/Smart-Resume-Analyzer..git)**
-(Your project analyzing resumes for jobs with AI/logic — using JavaScript, Python, frontend & backend) ([GitHub][1])
-
----
 
 ## 📄 README.md for **Smart-Resume-Analyzer**
 
